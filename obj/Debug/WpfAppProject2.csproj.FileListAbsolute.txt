@@ -1,0 +1,16 @@
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.csproj.AssemblyReference.cache
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\MainWindow.g.cs
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\App.g.cs
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2_MarkupCompile.cache
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2_MarkupCompile.lref
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\bin\Debug\WpfAppProject2.exe.config
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\bin\Debug\WpfAppProject2.exe
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\bin\Debug\WpfAppProject2.pdb
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\MainWindow.baml
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.g.resources
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.Properties.Resources.resources
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.csproj.GenerateResource.cache
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.csproj.CoreCompileInputs.cache
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.exe
+C:\Users\FERN\Desktop\T-DEV\WpfAppProject2\obj\Debug\WpfAppProject2.pdb
